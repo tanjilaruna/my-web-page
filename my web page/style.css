@@ -16,5 +16,11 @@ height: 450px;
     font-family: 'Permanent Marker', cursive;
     font-size: 12px;
 
-
+}
+.st-row{
+    height: 70px;
+    background-color: rgb(238, 241, 241);
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 7px;
 }
